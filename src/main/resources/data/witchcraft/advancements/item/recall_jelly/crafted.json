@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "witchcraft:recall_jelly"
+      }
+    }
+  },
+  "rewards": {
+    "function": "witchcraft:recall_jelly/crafted"
+  }
+}

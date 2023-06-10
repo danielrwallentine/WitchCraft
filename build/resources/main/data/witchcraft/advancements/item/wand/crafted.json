@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "witchcraft:wand"
+			}
+		}
+	},
+	"rewards": {
+		"function": "witchcraft:wand/crafted"
+	}
+}

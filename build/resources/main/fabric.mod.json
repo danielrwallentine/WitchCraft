@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "witchcraft",
+  "version": "1.0",
+  "name": "WitchCraft",
+  "description": "A Minecraft DataPack packaged as a mod, therefore fully serverside",
+  "authors": [
+    "DanielW"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/witchcraft/icon.png",
+  "environment": "*",
+  "entrypoints": {
+  },
+  "mixins": [
+  ],
+  "depends": {
+    "fabricloader": "*",
+    "fabric": "*",
+    "minecraft": "1.19.x"
+  }
+}

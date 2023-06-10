@@ -1,0 +1,3 @@
+gamerule showDeathMessages true
+gamerule keepInventory false
+gamerule doImmediateRespawn false

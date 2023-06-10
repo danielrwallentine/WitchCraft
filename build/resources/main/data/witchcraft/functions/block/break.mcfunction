@@ -1,0 +1,2 @@
+kill @s
+data merge entity @e[type=minecraft:item,limit=1,distance=..0.5] {Item:{id:"minecraft:item_frame",Count:1,tag:{EntityTag:{Tags:["placeblock1"]},CustomModelData:1,display:{Name:'{"text":"Block O' Enchanting","italic":"false"}'}}}}

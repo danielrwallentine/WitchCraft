@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #0",
+        " /#",
+		"/  "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gold_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+		"0": {
+            "item": "minecraft:amethyst_shard"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book"
+    }
+}
